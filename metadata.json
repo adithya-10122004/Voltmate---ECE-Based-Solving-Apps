@@ -1,0 +1,6 @@
+{
+  "name": "VoltMate - VTU ECE Formula & Interactive Solver Hub",
+  "description": "Comprehensive VTU Electronics & Communication Engineering formulas from Semesters 1 to 8, step-by-step interactive sum solver, waveform visualizers, and PDF cheatsheet export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
